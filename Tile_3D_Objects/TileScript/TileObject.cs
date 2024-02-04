@@ -10,8 +10,6 @@ namespace TileScript
 #if UNITY_EDITOR
         private MeshRenderer _meshRenderer;
         private Material _material;
-
-        private bool _gotMaterial;
 #endif
         
         private void Start()
